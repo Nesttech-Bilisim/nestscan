@@ -69,7 +69,7 @@ bölümüne yazın veya **destek@nesttechbilisim.com** adresine e-posta gönderi
 Üretici, Web başlığı ve Sertifika satırlarının ekran görüntüsü çok yardımcı olur (müşteri adı/IP gibi bilgileri
 kapatarak).
 
-Sürümlerde neyin değiştiği: [SURUMLER.md](SURUMLER.md)
+Sürüm notları: [Releases](https://github.com/Nesttech-Bilisim/nestscan/releases)
 
 ## Lisans
 
